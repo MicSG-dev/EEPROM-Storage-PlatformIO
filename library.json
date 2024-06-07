@@ -1,7 +1,7 @@
 {
     "name": "EEPROM-Storage",
     "keywords": "infrared, ir, remote",
-    "description": "Send and receive infrared signals with multiple protocols",
+    "description": "Send and receive infrared signals with multiple protocols with PlatformIO compatibility",
     "repository": {
       "type": "git",
       "url": "https://github.com/MicSG-dev/EEPROM-Storage-PlatformIO"
