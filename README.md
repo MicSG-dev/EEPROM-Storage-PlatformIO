@@ -1,6 +1,6 @@
 # EEPROM-Storage-PlatformIO Library
 ## Overview
-This library is a fork of EEPROM-Storage modified to be compatible with PlatformIO.
+This library is a fork of [EEPROM-Storage](https://github.com/porrey/EEPROM-Storage) modified to be compatible with PlatformIO.
 
 This library is designed to work on both the **Particle** and the **Arduino** platforms.
 
