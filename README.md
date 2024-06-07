@@ -1,5 +1,7 @@
-# EEPROM-Storage Library
+# EEPROM-Storage-PlatformIO Library
 ## Overview
+This library is a fork of EEPROM-Storage modified to be compatible with PlatformIO.
+
 This library is designed to work on both the **Particle** and the **Arduino** platforms.
 
 The EEPROM Storage library provides the ability to access variables stored in EEPROM just as if they were stored in normal RAM. This makes it easy to create static variables that must be restored after a reboot and manage them in your code just like any other variable.
